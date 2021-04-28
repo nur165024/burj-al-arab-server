@@ -7,10 +7,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
+Open [http://localhost:4000](http://localhost:4000) to view it in the browser.<br />
 
 
-This project total package install list .<br /><br /><br />
+This project total package install list .<br /><br />
 See the section about (https://expressjs.com) for more information.<br />
 Package name Express (1).
 
